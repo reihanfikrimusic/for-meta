@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is my Link for Meta Ads
+This is my Link for the Ads
